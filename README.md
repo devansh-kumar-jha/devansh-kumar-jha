@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @dkjha20 
+- 🌱 I’m currently learning basic tech stuff.
 - 👀 I’m interested in Data Structures,Algorithms and Machine Learning
-- 🌱 I’m currently learning basics of a bunch of cool stuff.
+- 👀 Trying hands on Web Development and Basic Cryptography these days
+- 😊 You can discuss sport programming problems with me if you like. 
 - 📫 You can talk with me on Emails ✨
 
 <!---
