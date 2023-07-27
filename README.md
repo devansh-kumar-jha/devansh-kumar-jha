@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @dkjha20 
-- 🌱 I’m currently learning basic tech stuff.
-- 👀 I’m interested in Data Structures,Algorithms and Machine Learning
-- 👀 Trying hands on Web Development and Basic Cryptography these days
-- 😊 You can discuss sport programming problems with me if you like. 
-- 📫 You can talk with me on Emails ✨
+- 👀 I’m interested in Computer Systems and Machine Learning.
+- 👀 Trying my hands on Web Development and Database Systems these days.
+- 😊 You can discuss competitive programming problems with me. 
+- 📫 Get in touch on Emails if you please ✨
 
 <!---
 dkjha20/dkjha20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
