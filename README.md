@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dkjha20 
+- 👋 Hi, I’m @devansh-kumar-jha
 - 👀 I’m interested in Computer Systems and Machine Learning.
 - 👀 Trying my hands on Web Development and Database Systems these days.
 - 😊 You can discuss competitive programming problems with me. 
